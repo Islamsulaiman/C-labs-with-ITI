@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667430842 source:d:\iti subjects\intro to programming using c\lab 1\lab 3\lab3 ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1667430842 source:d:\iti subjects\intro to programming using c\labs\lab 3\lab3 ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
