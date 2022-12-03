@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1667649004 source:d:\iti subjects\intro to programming using c\lab 1\lab 4\lab4 ex9\main.c
+	<dos.h>
+	<dir.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1667649374 source:d:\iti subjects\intro to programming using c\labs\lab 4\lab4 ex9\main.c
+	<dos.h>
+	<dir.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
