@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667657677 source:d:\iti subjects\intro to programming using c\lab 1\lab 5\lab5 ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

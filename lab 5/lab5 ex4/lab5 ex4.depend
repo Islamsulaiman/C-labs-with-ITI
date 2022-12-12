@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667684663 source:d:\iti subjects\intro to programming using c\lab 1\lab 5\lab5 ex4\main.c
+	<dos.h>
+	<dir.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
