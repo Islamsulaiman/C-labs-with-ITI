@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667825830 source:d:\iti subjects\intro to programming using c\labs\lab 7\lab7 ex2 line editor\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668242453 source:d:\iti subjects\intro to programming using c\labs\c labs\lab 7\lab7 ex2 line editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
