@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1667938109 source:d:\iti subjects\intro to programming using c\labs\lab 8\lab8 ex2\main.c
+	<dos.h>
+	<dir.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1668165811 source:d:\iti subjects\intro to programming using c\labs\c labs\lab 8\lab8 ex2\main.c
+	<dos.h>
+	<dir.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+

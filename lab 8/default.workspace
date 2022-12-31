@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="lab8 ex1/lab8 ex1.cbp" />
+		<Project filename="lab8 ex1 with dynamic memory allocation malloc()/lab8 ex1 with dynamic memory allocation malloc().cbp" />
+		<Project filename="lab8 ex2/lab8 ex2.cbp" />
+		<Project filename="lab8 ex3/lab8 ex3.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

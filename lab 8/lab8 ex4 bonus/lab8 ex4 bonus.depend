@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668368253 source:d:\iti subjects\intro to programming using c\labs\c labs\lab 8\lab8 ex4 bonus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
